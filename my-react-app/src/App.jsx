@@ -16,7 +16,7 @@ function App() {
       </nav>
 
       {/* Page Content */}
-      <div style={{ padding: '20px' }}>
+      <div style={{ padding: '30px' }}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
